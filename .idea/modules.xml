@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OOPSConcepts/OOPSConcepts.iml" filepath="$PROJECT_DIR$/OOPSConcepts/OOPSConcepts.iml" />
       <module fileurl="file://$PROJECT_DIR$/java programming practice.iml" filepath="$PROJECT_DIR$/java programming practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops concept inheritance/oops concept inheritance.iml" filepath="$PROJECT_DIR$/oops concept inheritance/oops concept inheritance.iml" />
     </modules>
   </component>
 </project>
